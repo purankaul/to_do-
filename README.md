@@ -1,4 +1,6 @@
 To-Do List Application
+
+
 This project is a simple To-Do List web application built using Express.js, EJS for templating, SQLite for database storage, and HTML/CSS for the front-end. Users can create and manage to-do items, which are stored persistently in an SQL database.
 
 Features
